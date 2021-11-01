@@ -1,0 +1,10 @@
+{
+    "include": ["src/**/*"],
+    "ts-node": {
+        "transpileOnly": true
+    },
+    "compilerOptions": {
+        "declaration": true,
+        "outDir": "./dist/",
+    }
+}
